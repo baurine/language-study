@@ -16,6 +16,10 @@
 
 为了与教程保持一致性，笔记中也使用了教程中使用的术语。另外，此教程使用的是 KK 音标，虽然与大陆教学使用的国际音标不完全相同，但我个人觉得对于发音学习没有很大的影响。
 
-另外，这个教程中的发音为美式发音，与我们教学中学习的英式发音也有所不同，从这个视频 - [5 Pronunciation Differences btw American and British English [Korean Billy]](https://www.youtube.com/watch?v=XivgozCX9_U) 了解它们的不同。
+另外，这个教程中的发音为美式发音，与我们教学中学习的英式发音也有所不同，从这个视频 - [5 Pronunciation Differences btw American and British English [Korean Billy]](https://www.youtube.com/watch?v=XivgozCX9_U) 了解它们的不同。最显示的区别在于，在英式发音中，o 发 [ɔ] 的地方，在美式发音中变成了 [ɑ]，我觉得从这个区别上能体会两种语言的一些特点，前者比较字正腔圆，很正式的感觉，后者比较 casual，夸张。
+
+- box [bɔks] / [bɑks]
+- clock [klɔk] / [klɑk]
+- top [tɔp] / [tɑp]
 
 音标的输入：[在线输入器](http://westonruter.github.io/ipa-chart/keyboard/)。

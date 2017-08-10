@@ -229,3 +229,20 @@ Mike rides a white bike.
 - bike [baɪk]
 
 英语发音的特点：圆融，连续。
+
+### 15. `[au]`
+
+Our cow was found in our house.
+
+- our [aur]
+- cow [kau]：母牛，公牛 (ox 阉割过的/ bull 未阉割过的 芝加哥公牛队)
+- found [faund]
+- house [haus]：houses [hauziz]
+
+### 16. `[ɔɪ]`
+
+Joy plays those toys with joy.
+
+- Joy [dʒɔɪ]
+- plays [plez]
+- toy [tɔɪ]：toys [tɔɪz]
