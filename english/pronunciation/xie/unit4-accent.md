@@ -40,7 +40,7 @@ stop [stɔp]，实际发音 [sdɔp]，因为 [s] 和 [t] 都是无声子音，�
 - a 是冠词，是非机能语，dog 是内容语，像冠词，介词这些非机能语，不重读。
 - dog，当它作为一个单字单独发音时，因为是单音节，所以发四声重读，如果它处于多音节中时，发一声。
 
-![](./pretend-accent.png)
+![](./art/pretend-accent.png)
 
 重音在第一音节的例子：
 
@@ -50,7 +50,7 @@ stop [stɔp]，实际发音 [sdɔp]，因为 [s] 和 [t] 都是无声子音，�
 
 notebook，note 和 book 作为独立的单字，单独念时，都念四声重读。note 单独发音时，[t] 发音明显，当它和别的子音一起时，为了节省，[t] 发得不明显，像是含在嘴里。
 
-![](./sunset-notebook-accent.png)
+![](./art/sunset-notebook-accent.png)
 
 #### 三音节
 
@@ -68,7 +68,7 @@ notebook，note 和 book 作为独立的单字，单独念时，都念四声重�
 - a 'fruit cake
 - I 'love you
 
-![](./tomorrow-accent.png)
+![](./art/tomorrow-accent.png)
 
 重音在第三个音节，此时第一音节为次重读音 (第二高的音，但不用太在意)：
 
@@ -83,7 +83,7 @@ notebook，note 和 book 作为独立的单字，单独念时，都念四声重�
 - 'School is 'fun. school 和 fun 重读，is 轻读。
 - 'Tom made 'lunch. Tom 和 lunch 重读，made 轻读。
 
-![](./bill-went-home.png)
+![](./art/bill-went-home.png)
 
 #### 四音节
 
