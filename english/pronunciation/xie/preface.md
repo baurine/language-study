@@ -22,6 +22,13 @@
 - clock [klɔk] / [klɑk]
 - top [tɔp] / [tɑp]
 
+另一个区别是 a 的发音，英式中常发 [ɑ]，则美式中发 [æ]。
+
+- can't [kɑnt] / [kænt]
+- ask [ɑsk] / [æsk]
+- bath [bɑθ] / [bæθ]
+- chance [tʃɑns] / [tʃæns]
+
 这个教程还有一个特点，里面的知识点会不断地给你重复一遍又一遍，我觉得非常有效果，我喜欢这种 style。重复重复再重复，是加深对一个知识点理解的不二法门。
 
 音标的输入：[在线输入器](http://westonruter.github.io/ipa-chart/keyboard/)。
