@@ -10,5 +10,6 @@
 * [English - 初级文法 (谢孟媛)](english/grammar/xie-1/preface.md)
     * [Unit 1 - 名词和冠词](english/grammar/xie-1/unit1-noun-article.md)
     * [Unit 2 - 动词的现在时](english/grammar/xie-1/unit2-verb.md)
+    * [Unit 3 - 动词的过去时](english/grammar/xie-1/unit3-verb-2.md)
 * [日语 - 五十音图](japanese/pronunciation/syllabary.md)
 * [日语 - 新标日](japanese/new_standard_junior/note-1.md)
