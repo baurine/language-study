@@ -12,6 +12,7 @@
     * [Unit 1 - 名词和冠词](english/grammar/xie-1/unit1-noun-article.md)
     * [Unit 2 - 动词的现在时](english/grammar/xie-1/unit2-verb.md)
     * [Unit 3 - 动词的过去时](english/grammar/xie-1/unit3-verb-2.md)
+    * [Unit 4 - 代名词](english/grammar/xie-1/unit4-pronoun.md)
     * [补充](english/grammar/xie-1/appendix.md)
 * [日语 - 五十音图](japanese/pronunciation/syllabary.md)
 * [日语 - 新标日](japanese/new_standard_junior/note-1.md)
