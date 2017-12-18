@@ -265,7 +265,7 @@ so 的使用例句：
 
 不定代名词有 adj 作用：
 
-- Some of the boys like Englis.
+- Some of the boys like English.
 
   Some 是主词，是代名词，of the boys 是限定。有限定。
 
@@ -282,3 +282,134 @@ so 的使用例句：
 (所以，不是所有跟在名词前的都是形容词啊。)
 
 (视频第 7 集，继续代名词)
+
+### one / ones
+
+- one = a/an + 单数名词，指不特定的人或物
+- ones，指不特定的人或物复数
+
+例：
+
+- I have lost my watch and I have to buy one. (one 没有特特定品牌或特征，代替 a watch)
+- I like small cars better than large ones. (ones 代替 cars)
+
+- one = a/an + 单数名词
+- it = the + 单数名词 (限定)
+
+例：
+
+- Here are some apples, take one.
+- I bought a good camera, I'll lend it to you.
+
+### both / all
+
+- both，两者都，用于 2 个人或 2 个物
+- all，全部都，数量为 3 或 3 个以上的人或物，也可以代表不可数名词，如 all water，all money
+
+在句子中的位置：
+
+- be 动词和助动词之后，一般动词之前 (搞反了?)
+- 定冠词 (the)，所有和，数词，形容词之前，如 all my books
+
+例：
+
+- Both (of) her children went to New York.
+- I have read both these papers.
+- All (of) my money was stolen.
+- You may take all these toys.
+- You may take them all.
+
+**注意**，both，all 出现在否定句中，表示 "部分否定"，表示 "并非都"。
+
+- I don't know both of her parents. 我并非都认识她的父母。
+- Not all of them come from England. 他们并非全部都是来自 England.
+
+both 的全部否定应该用 neither，all 的全部否定应该用 none。表示 "全部都不"，neither / none 本身已经表示否定，所以句子中不需要其它的否定词。
+
+- I know neither of her parents. 她的父母我全部都不认识。
+- None of them come from England. 他们全部都不来自 England。
+
+### either / neither
+
+- either，两者之中无论哪一个都可以，但是只能选其一，本身是肯定。
+- neither，both 的否定，表示 "两者都不"，全部否定，本身为否定，不可和 not 同时出现。
+
+例：
+
+- Do you know either of the visitors? 你认识这两个观光客中的一个吗?
+- I don't like both hats. 我并非都不喜欢这两顶帽子。(部分否定)
+- I like neither of the hats. 我两顶帽子都不喜欢。(全部否定)
+
+**否定字**
+
+- neither = not either
+- never = not ever
+
+本身含 not，称为否定字，类似的还有 nothing，seldom ...
+
+**either / neither 也有副词用法 (也不)**
+
+Bill didn't come to my party, and
+
+- ken didn't either.
+- neither did ken.
+
+### some / any
+
+一般而言，some 用于肯定，any 用于否定、疑问及条件句 (if)，可代替可数和不可数。
+
+- Some of the boys were late.
+- Some of my money was stolen from my purse.
+- Please lend me some money if you have any.
+- Do you have any magzine to read?
+
+**some 可用于表示 "请求，邀请" 的问句**
+
+- Will you give me some help?
+- Would you like some coffee?
+- How about some tea?
+
+### other / the other / others / the others / another
+
+- other，表其它人或物，只作为形容词使用，修饰单数
+- the other，代名词，表示特定的另一个
+- others，other 的复数，代名词，不特定?
+- the others，代名词，指代复数，特定?
+- another = an + other，表不特定的另一个人或事物，无复数
+
+例：
+
+- I have two students, **one** is short, **the other** is tall.
+
+- I have three flowers,
+  - **one** is red, **the others** are yellow.
+  - **one** is red, **another** is yellow, **the other** is pink.
+
+- I don't like this one, show me
+  - another. (数目为 3 或以上)
+  - the other. (数目为 2)
+
+- Some of **the** boys are here, but where are **the** others? (前面有限定词，后面也要有限定词)
+- Some people said yes and others said no. (前面没有限定，后面也没有限定)
+
+归纳：
+
+![](./art/pronoun-others.jpeg)
+
+其它：
+
+- none，可数，不可数皆可
+- several，可数
+- most，可数，不可数皆可
+
+例：
+
+- None of the telephones is/are working. (none 作主词，谓语用单数复数皆可)
+- Several of my friends attended the meeting.
+- Most of it is there.
+- Most of the people know it.
+
+most 还可以作为作为形容词的最高级形式，前面要加 the。
+
+- Who get the most New Year's cards?
+- She is the most beautiful gril that I have ever seen.
