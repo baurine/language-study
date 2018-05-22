@@ -20,7 +20,7 @@
   - 分词
     - 现在分词 (动词-ing)
     - 过去分词 (动词-ed)
-- 从句 (TODO)
+- 从句
 - ...
 
 ## 时态
@@ -294,8 +294,11 @@ Ref：[英语特殊疑问句简介](http://www.yygrammar.com/article/201109/2532
   - 不定式 - 表将来或具体的动作
   - 动名词 - 表示已完成或一般的动作
 - 形容词或副词属性 - 充当表语、定语、状语等形容词或副词属性的句子成分
+  - 不定式 - 表将来或具体的动作
   - 现在分词 - 主动和正在进行的动作
   - 过去分词 - 被动和完成的动作
+
+不定式的使用范围最广。
 
 不定式和动名词充当主语或宾语时，如果表述太长，经常会用 it 来作形式语式或形式宾语。
 
@@ -479,3 +482,130 @@ Ref：[非谓语动词用法精讲](http://www.for68.com/new/2007/7/wa7338346301
    例如：amazing, amazed, amusing, amused, convincing, confusing, confused, disappointing, disappointed, encouraging, encouraged, exciting, excited, contented, inviting, missing, misunderstanding, inexperienced 等。
 
    这些分词没有严格意义上的被动、静态、动态、已完成或正在进行这样的含义。它们源自动词，有动词的用法。以最常见的interesting 和 interested 为例。若对某事/某人感兴趣，就用 "be interested in sth./sb." 的结构，主语一般都是人；如果某事或某人本身让别人感到有意思，让人感兴趣的话，就用 "sth./sb. is interesting" 的结构。
+
+## 从句
+
+Ref: [怎样浅显易懂地解释英语各种从句的逻辑？](https://www.zhihu.com/question/31730389)
+- [回答 1](https://www.zhihu.com/question/31730389/answer/53104347)
+
+复合句 = 简单句 1 + 并列连词 + 简单句 2
+
+并列连词并不多，只有数个，for / and / nor / but / or / yet / so，首字母连起来是 fanboys，可以帮助记忆，另外还有两个特殊的词组，and yet 和 and so。
+
+- for - I'd better take an unbrella, for it is going to rain.
+- and - He is so handsome and the princess is willing to marry him.
+- nor - The city is not beautiful, nor is it clean.
+- but - I like actio movies and she doesn't like them.
+- or - Take the chance, or you will regret.
+- yet
+- so
+- and yet
+- and so
+
+复杂句 = 主句 + 从句 = 简单句 1 + 引导词 + 简单句 2 (后面两部分的组合即从句)
+
+从句主要有三种：
+
+1. 名词性从句，具有名词的功能，可以作主语、宾语、表语和同位语。可以细分为主语从句、宾语从句、表语从句和同位语从句。
+1. 定语从句，相当于形容词，充当句子的定语成分，，修饰名词或代码。
+1. 状语从句，相当于副词，充当句子的状语成分，修饰整个句子或谓语动词。
+
+图例：
+
+![](./art/english_clause.jpg)
+
+### 名词性从句
+
+名词性从句一般可以分为两大类：
+
+1. that/whether/if + 完整句子
+1. 特殊疑问词的陈述语序
+
+先看名词性从句做主语、宾语、表语的情况。
+
+**that/whether/if + 完整句子**
+
+that 在这里作连词。
+
+- That you are right is a lie.
+- I believe (that) you are right.
+- It is not that you lied to me, it is that you do not regret it at all.
+- I don't know whether/if he is trustworthy.
+
+**特殊疑问词的陈述语序**
+
+Got it! 我就是经常这一点搞不明白，老是忘记在从句中要不要用那个疑问句中的助动词。现在记住了，不需要！
+
+(但如果疑问词充当是主语，实际疑问语序和陈述语序是一样的)
+
+- what - What he wants to tell us is not clear. (如果是疑问语序，那么是这样的：What does he want to tell us ...?)
+- who - Who will win the match is still unkonwn. (Who 在从句中充当主语，所以实际疑问语序也是这样的：Who will win the match ...?)
+- whom - I don't know whom he gave that ring to. (whom 作宾语，所以疑问语序和陈述语序不一样，疑问语序是这样的：... whom did he give that ring to?)
+- when - I dont't know when the match starts. (when 作状语，所以疑问语序和陈述语序不一样，疑问语序：... when does the match start?)
+- why - I still don't understand why he is so angry. (状语，疑问语序：... why is he so anry?)
+- how - It is known to us how he became a writer. (状语，疑问语序：... how did he become a write?)
+
+其余引导词如 whatever / which / whichever / whoever / whomever / where / wherever / when / whenever / whose / whosever / however 略。
+
+从这里我理解了以前的一个疑惑，之前我有一个疑惑，为什么会有这样的表达呢 - "why he is so angry?"，这是一个疑问句啊，正常的表达不应该是 "why is he so angry?" 的吗，原来是我忽略了它是作为从句出现在一个句子中的，而不是一个独立的句子。
+
+再看名词性从句作同位语，即同位语从句。
+
+同位语从句 = 抽象名词 + 主/宾/表从句 = 抽象名词 + 引导词 + 同位句
+
+抽象名词概括同位句，同位句解释抽象名词。
+
+抽象名词：fact / idea / news / information / order / belief / advice / suggestion
+
+引导词有：
+
+- that (that 作连词)
+- whether
+- what / who / whom / whose / when / where / how / why
+
+例句：
+
+- The girls were suprised at the fact that ocean ships can sail up the Great Lakes.
+- There was a suggestion that Brown should be dropped from the team.
+- The question whether we should call in a specialist was answered by the family doctor.
+- I have no idea what size she wears.
+
+要特别注意区分同位语从句和定语从句。前者，从句和抽象名词是并列关系，从句对抽象名词进一步解释，而不是修饰的关系，而定语从句中，从句是起修饰的作用，相当于形容词。
+
+以 that 为例，在同位语从句中，that 是连词，它在从句中实际并不担当任何成分，因此省略也是可以的；但在定语从句中，that 是代词，在从句中充当主语或宾语等成分，具有实际的意义，不可去掉，如果非要把它去掉，那后面的动词就变成了非谓语，要改成用非谓语的用法。
+
+### 形容词性从句 (定语从句)
+
+一般分两种形式：
+
+1. 关系代词 that / which / who / whom / whose + 不完整句子
+
+   注意，在这里，that 是代词，而在名词性从句中，它一般是连词。
+
+   示例：
+
+   - It is the only one that I have left.
+   - He is the man whom/that I saw yesterday.
+   - Is he the man who/that wants to see you?
+   - They rushed over to help the man whose car had broken down.
+
+   这些关系代词代替的是前面修饰的名词，相当于是对这些名词的一次重复。某些情况下可以用非谓语来替代，这样就不需要用关系代词再来重复一次。
+
+   比如第一个句子：It is the only one left by me.
+
+1. 关系副词 when / where / why + 完整句子
+
+   - There are occasions when (on which) one must yield. (?? 啥意思)
+   - China is the country where (in which) I was born.
+   - Is this the reason why (for which) he refused our offer?
+
+### 副词性从句 (状语从句)
+
+状语从句的引导词只有副词和连词，所以只能引导完整句子，一般按意义可分为 9 类：
+
+- 时间：**When** the dry dessert ends, the green grass grows.
+- 地点：**Where** there is a will, there is a way.
+
+原因 / 目的 / 结果 / 条件 / 让步 / 比较 / 方式 状语从句，略。
+
+后面几个回答也很有启发性，到目前为止，对从句的理解终于清晰了。
