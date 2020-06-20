@@ -5,6 +5,7 @@
 1. 单数名词 + s / es 变复数的发音
 1. 第三人称单数，动词 + s / es 的发音
 1. 动词过去式，动词 + d / ed 的发音
+1. 自然拼读
 
 ## 英式和美式发音的不同
 
@@ -25,7 +26,7 @@
 
 - [Youtube - 麦克老师](https://www.youtube.com/playlist?list=PLNXW1mx0qgEfcsV3nk_wzpFEtUycD9rdc)
 
-[f] [v] [w] 的区别。venus ['vinəs]，will [wɪl]。(之前还真没意识到 [v] 和 [w] 发音这么接近...)
+[f] / [v] / [w] 的区别。venus ['vinəs]，will [wɪl]。(之前还真没意识到 [v] 和 [w] 发音这么接近...)
 
 - [f] / [v]：发音时上牙咬住下嘴唇内侧。前者无声，后者有声，震动声带。
 - [w]：发 [w] 时嘴是张开的。
@@ -47,7 +48,7 @@
 
 - [s] --> 无声配无声
 - [z] --> 有声配有声
-- [ɪz] --> 字尾 [s] [z] 后发 [ɪz]
+- [ɪz] --> 字尾 [s] / [z] 后发 [ɪz]
 
 从这些资料来看，确实，只有无声子音后的 s 发 [s]，其余大部分情况都发 [z] 或 [ɪz]，为什么我一直有一种错觉，我以前念的时候大部分都是发 [s] 呢。
 
@@ -95,7 +96,7 @@ d / ed 的发音规则其实和 s / es 的发音规则是类似的。
 
 - 无声后发 [t]：liked，asked，pushed
 - 有声后发 [d]：loved，called，joined，played
-- [t] [d] 后发 [ɪd]：hated，started，wanted，needed
+- [t] / [d] 后发 [ɪd]：hated，started，wanted，needed
 
 ### 变化规则
 
@@ -104,7 +105,7 @@ d / ed 的发音规则其实和 s / es 的发音规则是类似的。
 1. 直接在词尾加 ed。如：wanted，worked，needed，cleaned
 1. 以不发音的 e 结尾的在词尾加 d。如：liked，lived，used，moved
 1. 以一个元音字母加一个辅音字母结尾的重读闭音节动词，先双写结尾的辅音字母，再加 ed。如：stopped，tripped
-4. 以辅音字母加 y 结尾的动词，先把 y 变成 i，再加 ed。如：studied，carried，hurried，married
+1. 以辅音字母加 y 结尾的动词，先把 y 变成 i，再加 ed。如：studied，carried，hurried，married
 
 不规则动词的过去式大体上归纳有以下六条记忆法：
 
@@ -116,3 +117,10 @@ d / ed 的发音规则其实和 s / es 的发音规则是类似的。
 1. 含有元音字母 o / i 的词，将 o / i 变成 a。如：sing -> sang，give -> gave，sit -> sat，drink -> drank
 
 (感觉像是千方百计要把它们的结尾变成 t。)
+
+## 自然拼读
+
+- [自然發音](https://www.youtube.com/playlist?list=PLp2TEvhBsUYZLYlPGvzT4j7cae50LvZNo)
+- [周育如 K.K 音標英文教學 (自然發音)](https://www.youtube.com/watch?v=eLSOXxHa8Ps)
+- [60 分鐘 KK 音標＆自然發音英文發音課程](https://www.youtube.com/watch?v=ZjuZQN-u3zk)
+- [KK 音標：如何拼音 (英文拼音教學)](https://www.youtube.com/watch?v=QJwbUp-cZ5A)
