@@ -15,7 +15,7 @@ We see three bunnies in the field.
 
 - three [θ ri]
   - 根据后母接前子的规则，这里 [i] 跟在 [r] 后面，[ri] 组成一个整体，因此 r 发 母音前 音，发 "惹"(re) 音，而不是 "儿"(er) 音
-  - 因此这里 ree 发成类似中文 "蕊"(rui) 音，而不是 "历"(ri) 音 (??)
+  - 因此这里 ree 发成类似中文 "蕊"(rui) 音，而不是 "历"(ri) 音 (?? ==> ri -> re i -> rei)
   - 剩下的 [θ] 没有母音照顾它，只好单独发音
 
 - bunny ['bʌni]
