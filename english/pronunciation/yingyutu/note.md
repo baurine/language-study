@@ -179,7 +179,6 @@ top, stop, setback, better, button, winter。
 - light [l] 清晰 L (Light L)
 - bill [ɫ] 模糊 L (Dark L)
 
-
 前面说到的辅音就属于 肺部气流辅音 (pulmonic consonants)，通过气流从肺部往外而发出的辅音。绝大部分属于这种。
 
 但有些语言中的辅音属于 非肺部气流辅音 (non-pulmonic consonants)。比如某些语言中有所谓 "搭嘴音" (click consonants)。
@@ -207,3 +206,9 @@ top, stop, setback, better, button, winter。
 ## P46 - 国际音标辅音示范
 
 略。
+
+---
+
+DJ 元音
+
+## P5 - i:
