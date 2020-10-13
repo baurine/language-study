@@ -5,7 +5,6 @@
 1. 单数名词 + s / es 变复数的发音
 1. 第三人称单数，动词 + s / es 的发音
 1. 动词过去式，动词 + d / ed 的发音
-1. 自然拼读
 
 ## 英式和美式发音的不同
 
@@ -117,10 +116,3 @@ d / ed 的发音规则其实和 s / es 的发音规则是类似的。
 1. 含有元音字母 o / i 的词，将 o / i 变成 a。如：sing -> sang，give -> gave，sit -> sat，drink -> drank
 
 (感觉像是千方百计要把它们的结尾变成 t。)
-
-## 自然拼读
-
-- [自然發音](https://www.youtube.com/playlist?list=PLp2TEvhBsUYZLYlPGvzT4j7cae50LvZNo)
-- [周育如 K.K 音標英文教學 (自然發音)](https://www.youtube.com/watch?v=eLSOXxHa8Ps)
-- [60 分鐘 KK 音標＆自然發音英文發音課程](https://www.youtube.com/watch?v=ZjuZQN-u3zk)
-- [KK 音標：如何拼音 (英文拼音教學)](https://www.youtube.com/watch?v=QJwbUp-cZ5A)
